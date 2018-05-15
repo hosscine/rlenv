@@ -5,6 +5,7 @@ This is r package of the environment for the reinforcement learning to explore a
 You can explore the environment with shiny application that is included in the package.
 
 ## Demo
+![demo](https://raw.github.com/wiki/hosscine/rlenv/rlenv.gif)
 
 ## Install
 
