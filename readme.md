@@ -37,7 +37,7 @@ A instance of the volcano explorer has methods below:
   * observes state(only position) discreately
 * `actionContinuous(action.x, action.y, torque = 2)`
   * affects continuously 2D action to environment
-* `actionContinuous(discrete.action, torque = 2)`
+* `actionDiscrete(discrete.action, torque = 2)`
   * affects discretely 1D action to environment
   * discrete.action is required (0, 1, 2, 3, 4) to (stop, move up, move down, move left, move right), respectively
 * `getReward()`
